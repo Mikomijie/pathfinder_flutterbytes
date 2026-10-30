@@ -1,0 +1,11 @@
+name: pathfinder_backend
+description: Pathfinder backend server
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  serverpod: ^2.3.0
+  http: ^1.2.0
+  crypto: ^3.0.0
